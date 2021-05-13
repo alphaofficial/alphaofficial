@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ~~a shadow monarch lost in a human worl~~ a fullstack engineer. 
+I'm ~~a shadow monarch lost in a human world~~ a fullstack engineer. 
 
 - 🔭 I’m currently working with [Sovtech](https://sovtech.com) and my day job involves building scaleable software using Typscript, NodeJS, React, React Native, Graphql, AWS and more
 - 🚀 I'm learning to build machine learning softwares and systems.
