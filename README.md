@@ -3,8 +3,8 @@
 I'm ~~a shadow monarch lost in a human world~~ a fullstack engineer. 
 
 - 🔭 I’m currently working with [Sovtech](https://sovtech.com) and my day job involves building scaleable software using Typscript, NodeJS, React, React Native, Graphql, AWS and more
-- 🚀 I'm learning to build machine learning softwares and systems.
-- 👾 I'm currently interested in machine learning applications.
+- 🚀 I'm also learning to build machine learning softwares and systems.
+- 👾 I'm currently interested in AI and machine learning applications.
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: If you traveled at the speed of light, time would stop
 
