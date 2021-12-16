@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm ~~a shadow monarch lost in a human world~~ a fullstack engineer. 
+I'm ~~a shadow monarch lost in a human world~~ a fullstack developer. 
 
 - 🔭 My day job involves building scaleable software using Typscript, NodeJS, React, React Native, Graphql, AWS and more
-- 🚀 I'm also learning to build machine learning softwares and systems.
+- 🚀 I'm also learning to build web3 and blockchain applications.
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: If you traveled at the speed of light, time would stop
 
