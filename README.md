@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, you found me 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albertakrong)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:alphaxsalt@gmail.com)
+
 
 I'm ~~a shadow monarch lost in a human world~~ a fullstack developer. 
 
-- 🔭 My main technologies are Typscript, NodeJS, React, React-Native, Graphql, Prisma and AWS.
+- 🔭 My main technologies are JS/TS, NodeJS, React, React-Native, Graphql, Prisma and AWS.
 - 🚀 I'm also learning to build web3 and blockchain applications with Ethereum, Rust and solidity.
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: If you traveled at the speed of light, time would stop
