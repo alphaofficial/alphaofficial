@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:alphaxsalt@gmail.com)
 
 
-I'm ~~a shadow monarch lost in a human world~~ a fullstack developer. 
+I'm a fullstack web and mobile developer, passionate about building rich and scaleable applications
 
 - 🔭 My main technologies are JS/TS, NodeJS, React, React-Native, Graphql, Prisma and AWS.
 - 🚀 I'm also learning to build web3 and blockchain applications with Ethereum, Rust and solidity.
