@@ -1,6 +1,6 @@
 ### Hi there, you found me 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albertakrong)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)]()
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:alphaxsalt@gmail.com)
 
 
