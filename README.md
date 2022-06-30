@@ -11,7 +11,7 @@
 
 I'm a software engineer focused on web and mobile development. I'm passionate about building rich, secure and scaleable applications.
 
-- 🔭 My main technologies are JS/TS, NodeJS, React, React-Native, Flutter, Graphql, Prisma and AWS.
+- 🔭 My main technologies are Javascript and Typescript, NodeJS, React, React-Native, Flutter, Graphql, NestJS and AWS.
 - 🚀 I'm also learning to build blockchain applications with Ethereum, Rust and solidity.
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: If you traveled at the speed of light, time would stop
