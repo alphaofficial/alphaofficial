@@ -2,12 +2,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:alphaxsalt@gmail.com)
 
-<p align="left">
-<a href="https://twitter.com/alphaxsalt">
-  <img src="https://img.shields.io/badge/-Twitter-166F67" alt="Twitter" />
-</a> 
-</p>
-
 
 I'm a software engineer focused on web and mobile development. I'm passionate about building rich, secure and scaleable applications.
 
