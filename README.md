@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:alphaxsalt@gmail.com)
 
 
-I'm a software engineer focused on web and mobile development. I'm passionate about building rich, secure and scaleable applications.
+I'm a software engineer focused on web and mobile development. I'm passionate about building distibuted systems, secure and scaleable applications.
 
 - 🔭 My main technologies are Javascript and Typescript, NodeJS, React, React-Native, Graphql, NestJS and AWS.
 - 🚀 I'm also learning to build web3 apps
