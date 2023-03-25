@@ -2,7 +2,6 @@
 I'm a software developer, proficient in frontend and backend development
 
 - 🔭 My main technologies are Typescript, NodeJS, React, React-Native, Graphql, NestJS and more.
-- 🚀 I'm also learning to build web3 apps
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: If you traveled at the speed of light, time would stop
 
