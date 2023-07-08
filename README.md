@@ -1,5 +1,5 @@
 ## Hi there, you found me 👋
-I am a full-stack software developer
+I'm a full-stack software developer
 - 💼 Currently building reliable distributed systems 
 - 👨🏾‍💻 Ask me about software architecture, distributed systems, Typescript, NodeJS, AWS.
 - 🌭 My dream: `while(sleeping){money++;}`
